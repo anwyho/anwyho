@@ -1,16 +1,16 @@
-### Hi there 👋
+## <img src="https://github.com/anwyho/static/blob/a813b8973782993898b8996b79384d4f8b1b0c0e/waving_hand_emoji.gif" alt="gif of waving hand" width="25px"> Heyo!
 
-<!--
-**anwyho/anwyho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pleasure to meet you! I'm Anthony, a coder!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What's new? 
+
+Recently, I've been learning lots of Go. You can check out some of my Go code and technical writing [here](https://github.com/anwyho/aoc2020).
+
+
+### 📫 How to reach me 
+
+- [Email](mailto:anwyho@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/anwyho)
+- [Resume (updated)](https://github.com/anwyho/static/blob/main/AnthonyWHo.pdf)
+
