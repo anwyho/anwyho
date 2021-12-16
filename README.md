@@ -1,1 +1,1 @@
-<img src="https://github.com/anwyho/static/blob/a813b8973782993898b8996b79384d4f8b1b0c0e/waving_hand_emoji.gif" alt="gif of waving hand" width="25px"> hi!
+<img src="https://github.com/anwyho/static/blob/a813b8973782993898b8996b79384d4f8b1b0c0e/waving_hand_emoji.gif" alt="gif of waving hand" width="25px"> hi! idk how to get rid of this readme, so it'll be here forever i guess
